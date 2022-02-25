@@ -13,7 +13,7 @@ He supplies you with a data file of weather reading from the area where you want
 
 When we look at the data file we see the following:
 
-![](Resources\hawaii_data.png)
+<img src="Resources\hawaii_data.png">
 
 ## Data Analysis
 
@@ -23,22 +23,21 @@ The first step of our analysis is to read i the weather data and build dataframe
 
 The next step in the analysis is to build a new column in the dataframe. This new column will be based on a calculation to determine the month of the weather reading.
 
-
-![](Resources\load_data.png)
+<img src="Resources\load_data.png">
 
 > An example would be 2010-01-01 would produce a month value of 1 for January.
 
-![](Resources\temps_df_head.png)
+<img src="Resources\temp_df_head.png">
 
 Once the month column is calculated and filled, we can do the rest of the analysis that Mr. Avey requested. 
 
 The first month he asked us to analyze was June throughout the years. So we look at the month column where month = 6. Once we have identified the dataset of weather data readings we can then do the summary statistics on the dataset for Mr. Avey.
 
-![](Resources\june_results.png)
+<img src="Resources\june_results.png">
 
 The second month Mr. Avey asked us to analyze was December throughout the years. So we look at the month column where month = 12. Once we have identified the dataset of weather data readings we can then do the summary statistics on the dataset for Mr. Avey.
 
-![](Resources\dec_results.png)
+<img src="Resources\dec_results.png">
 
 ## Summary
 
