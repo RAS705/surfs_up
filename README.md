@@ -27,7 +27,7 @@ The next step in the analysis is to build a new column in the dataframe. This ne
 
 > An example would be 2010-01-01 would produce a month value of 1 for January.
 
-<img src="Resources\temp_df_head.png">
+<img src="Resources\temps_df_head.png">
 
 Once the month column is calculated and filled, we can do the rest of the analysis that Mr. Avey requested. 
 
